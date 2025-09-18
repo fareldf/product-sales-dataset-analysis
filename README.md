@@ -3,7 +3,7 @@ In today's competitive market, understanding product performance is essential fo
 
 The dashboard of product data sales analysis can be viewed [here](https://lookerstudio.google.com/reporting/95d8488f-d114-4999-b001-783118d50784).
 
-**Disclaimer**: this product data sales analysis project is still at a **basic level** and may contain errors or inaccuracies. So, further validation are recommended.
+**Disclaimer**: this analysis is still at a **basic level** and may contain errors or inaccuracies. So, further validation are recommended.
 
 # Dataset
 **Product Sales Dataset**
