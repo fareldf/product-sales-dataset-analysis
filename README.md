@@ -1,4 +1,4 @@
-# Product Data Sales Analysis
+# Product Sales Data Analysis
 In today's competitive market, understanding product performance is essential for business growth. By analyzing and visualizing the product dataset, we can uncover valuable information about sales and profit trends, customer preferences, and category performance.
 
 The dashboard of product data sales analysis can be viewed [here](https://lookerstudio.google.com/reporting/95d8488f-d114-4999-b001-783118d50784).
@@ -6,7 +6,7 @@ The dashboard of product data sales analysis can be viewed [here](https://looker
 **Disclaimer**: this product data sales analysis project is still at a **basic level** and may contain errors or inaccuracies. So, further validation are recommended.
 
 # Dataset
-**Product Data Sales**
+**Product Sales Dataset**
 
 This is a fictional dataset uploaded by Anu Chhetry in Kaggle dataset, showcasing product dataset in 2013 and 2014 from a fictional store. This dataset can be downloaded [here](https://www.kaggle.com/datasets/anuchhetry/product-sales?select=Sales_v1.xlsx).
 
