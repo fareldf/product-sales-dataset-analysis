@@ -361,7 +361,7 @@ plt.ylabel('Profit')
 plt.title('Sales versus Profit')
 plt.show()
 ```
-Insight: the scatter plot shows a positive relationship between sales and profit, which means higher sales generally lead to higher profit. Most data points are from 2014 with larger bubble sizes, indicating higher discount bands, but products with no or low discounts tend to achieve better profitability compared to those with higher discounts.
+Insight: the scatter plot shows a positive relationship between sales and profit, which means higher sales generally lead to higher profit.
 
 ## Sales and Profit Distribution with Boxplots
 ```python
