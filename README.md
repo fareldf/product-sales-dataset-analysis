@@ -1,7 +1,7 @@
 # Product Data Sales Analysis
 In today's competitive market, understanding product performance is essential for business growth. By analyzing and visualizing the product dataset, we can uncover valuable information about sales and profit trends, customer preferences, and category performance.
 
-The dashboard of product data sales analysis can be viewed [here](https://lookerstudio.google.com/reporting/95d8488f-d114-4999-b001-783118d50784)
+The dashboard of product data sales analysis can be viewed [here](https://lookerstudio.google.com/reporting/95d8488f-d114-4999-b001-783118d50784).
 
 **Disclaimer**: this product data sales analysis project is still at a **basic level** and may contain errors or inaccuracies. So, further validation are recommended.
 
